@@ -17,3 +17,4 @@ Una rama Git es simplemente un apuntador móvil apuntando a una confirmación. E
 
 
 El rebase permite coger los cambios introducidos en una versión y reaplicarlos encima de otra.
+La reorganización (rebase) es una de las formas (junto a la fusión (merge)) que tenemos de integrar cambios de una rama en otra. 
