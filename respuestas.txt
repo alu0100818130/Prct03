@@ -1,1 +1,3 @@
 Respuestas a las preguntas de la práctica 3
+
+Una rama Git es simplemente un apuntador móvil apuntando a una confirmación. El objetivo principal del uso de varias ramas es la corrección de errores en la rama master. Así, la rama master apuntará siempre a la última confirmación realizada.
